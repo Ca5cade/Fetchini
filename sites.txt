@@ -1,0 +1,26 @@
+https://www.tunisianet.com.tn/
+#search_query_top
+#js-product-list > div > div:nth-child(1) > article > div > div.wb-product-desc.product-description.col-lg-5.col-xl-5.col-md-6.col-sm-6.col-xs-6 > h2 > a
+#main > div.row.probg > div.col-lg-3.col-md-3.col-sm-3.col-xs-12.resume > div.product-prices > div.product-price.h5 > div > span
+https://www.mytek.tn/
+#minisearch-input-top-search
+#product-item-info_17121 > div.prdtBILDetails > div > strong > a
+#product-price-17121 > span
+https://www.sbsinformatique.com/
+#pos_query_top
+#js-product-list > div > div:nth-child(1) > article > div > div.product_desc.col-xs-5.col-sm-5.col-md-5.col-lg-5 > h3 > a
+#main > div:nth-child(2) > div:nth-child(2) > div > div.product-prices > div.product-price.h5 > div > span
+https://megapc.tn/
+body > app-root > app-content-layout > div > div > app-header > app-setting > nav:nth-child(3) > div > div > div.p-inputgroup.col-search > p-autocomplete > span > input
+#products > div > div > div:nth-child(1) > div > app-card-configurateur > div > a
+body > app-root > app-content-layout > div > div > div > div > main > app-shop > app-product > div > div > div.row > div.col-sm-3 > div > div > app-price-element > div > h2
+https://www.scoop.com.tn/
+#_desktop_search > div > div > div.tvsearch-header-display-wrappper.tvsearch-header-display-full > form > div.tvheader-top-search > div > input
+#js-product-list > div > div.products > article:nth-child(1) > div > div.tvproduct-wrapper.catelog > div > div.col-sm-12.col-md-4.tvcms-product-name-star > div.tvproduct-name.product-title > a
+#main > div.tvproduct-page-wrapper > div.tvprduct-image-info-wrapper.clearfix.row.product-5 > div.col-md-6.tv-product-page-content > div > div.theiaStickySidebarX > div.product-prices > div.product-price.h5 > div.current-price > span
+https://www.zoom.com.tn/
+#sp_search_pro_1 > form > div.text-search > input
+#center_column > div > div.content_product_list.hide-productdes.hide-coloroption.hide-stockinfo.hide-title.hide-quickview.hide-rating > div > div:nth-child(1) > div > div.right-block > div > h2 > a
+#our_price_display
+https://fnac.tn/
+#search-input
